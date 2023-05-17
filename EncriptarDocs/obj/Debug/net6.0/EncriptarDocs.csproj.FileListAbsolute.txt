@@ -1,0 +1,15 @@
+C:\Users\Mamalona\source\repos\EncriptarDocs\EncriptarDocs\bin\Debug\net6.0\EncriptarDocs.exe
+C:\Users\Mamalona\source\repos\EncriptarDocs\EncriptarDocs\bin\Debug\net6.0\EncriptarDocs.deps.json
+C:\Users\Mamalona\source\repos\EncriptarDocs\EncriptarDocs\bin\Debug\net6.0\EncriptarDocs.runtimeconfig.json
+C:\Users\Mamalona\source\repos\EncriptarDocs\EncriptarDocs\bin\Debug\net6.0\EncriptarDocs.dll
+C:\Users\Mamalona\source\repos\EncriptarDocs\EncriptarDocs\bin\Debug\net6.0\EncriptarDocs.pdb
+C:\Users\Mamalona\source\repos\EncriptarDocs\EncriptarDocs\obj\Debug\net6.0\EncriptarDocs.csproj.AssemblyReference.cache
+C:\Users\Mamalona\source\repos\EncriptarDocs\EncriptarDocs\obj\Debug\net6.0\EncriptarDocs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mamalona\source\repos\EncriptarDocs\EncriptarDocs\obj\Debug\net6.0\EncriptarDocs.AssemblyInfoInputs.cache
+C:\Users\Mamalona\source\repos\EncriptarDocs\EncriptarDocs\obj\Debug\net6.0\EncriptarDocs.AssemblyInfo.cs
+C:\Users\Mamalona\source\repos\EncriptarDocs\EncriptarDocs\obj\Debug\net6.0\EncriptarDocs.csproj.CoreCompileInputs.cache
+C:\Users\Mamalona\source\repos\EncriptarDocs\EncriptarDocs\obj\Debug\net6.0\EncriptarDocs.dll
+C:\Users\Mamalona\source\repos\EncriptarDocs\EncriptarDocs\obj\Debug\net6.0\refint\EncriptarDocs.dll
+C:\Users\Mamalona\source\repos\EncriptarDocs\EncriptarDocs\obj\Debug\net6.0\EncriptarDocs.pdb
+C:\Users\Mamalona\source\repos\EncriptarDocs\EncriptarDocs\obj\Debug\net6.0\EncriptarDocs.genruntimeconfig.cache
+C:\Users\Mamalona\source\repos\EncriptarDocs\EncriptarDocs\obj\Debug\net6.0\ref\EncriptarDocs.dll
